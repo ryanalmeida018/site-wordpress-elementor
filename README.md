@@ -73,11 +73,11 @@ Foram considerados aspectos como:
 
 ### Editor Elementor
 
-![Editor Elementor](imagens/editor-elementor.png)
+![Editor Elementor](imagens/painel-elementor.png)
 
 ### Visualização em dispositivo móvel
 
-![Versão mobile](imagens/responsivo.png)
+![Versão mobile](imagens/responsivo-celular.png)
 
 ---
 
