@@ -10,9 +10,8 @@ O projeto foi desenvolvido utilizando o WordPress como plataforma de gerenciamen
 
 ### 🖼️ Demonstração
 
-**Inserir aqui um print do painel do WordPress ou da estrutura inicial.**
-
-`[ PRINT AQUI ]`
+![site wordpress elementor](../imagens/painel-elementor.png)
+/painel-elementor.png
 
 ---
 
