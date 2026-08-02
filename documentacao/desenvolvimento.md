@@ -11,9 +11,7 @@ O projeto foi desenvolvido utilizando o WordPress como plataforma de gerenciamen
 ### 🖼️ Demonstração
 
 ![site wordpress elementor](../imagens/painel-elementor.png)
-/painel-elementor.png
 
----
 
 ## 2. Criação das páginas
 
@@ -31,11 +29,8 @@ Foram realizados ajustes de:
 
 ### 🖼️ Demonstração
 
-**Inserir aqui um print do editor Elementor.**
+![site wordpress elementor](../imagens/estrutura-elementor.png)
 
-`[ PRINT AQUI ]`
-
----
 
 ## 3. Personalização visual
 
@@ -43,11 +38,7 @@ Foram realizados ajustes nos elementos visuais para manter uma apresentação or
 
 ### 🖼️ Demonstração
 
-**Inserir aqui um print mostrando uma página sendo editada no Elementor.**
-
-`[ PRINT AQUI ]`
-
----
+![site wordpress elementor](../imagens/elementos-visuais-elementor.png)
 
 ## 4. Resultado final
 
@@ -55,9 +46,10 @@ Após a criação e personalização das páginas, foram realizados testes para 
 
 ### 🖼️ Demonstração
 
-**Inserir aqui um print da página finalizada.**
+![site wordpress elementor](../imagens/pagina-finalizada1.png)
+![site wordpress elementor](../imagens/pagina-finalizada2.png)
+![site wordpress elementor](../imagens/pagina-finalizada3.png)
 
-`[ PRINT AQUI ]`
 
 ## ✅ Resultado
 
