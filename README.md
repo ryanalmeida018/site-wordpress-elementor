@@ -31,7 +31,7 @@ Desenvolver um site funcional e visualmente organizado utilizando WordPress e El
 
 ## 🔗 Site
 
-[escoladedancapamelamatos.com.br](escoladedancapamelamatos.com.br)
+[escoladedancapamelamatos.com.br]
 
 ## 📚 Conhecimentos desenvolvidos
 
