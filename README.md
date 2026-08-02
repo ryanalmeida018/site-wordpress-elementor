@@ -2,42 +2,115 @@
 
 ## 📌 Sobre o projeto
 
-Projeto de desenvolvimento de um site utilizando WordPress e Elementor, com foco na criação, organização e personalização das páginas.
+Projeto de desenvolvimento de um site utilizando **WordPress e Elementor**, envolvendo criação e organização de páginas, estruturação do conteúdo, personalização visual e ajustes de responsividade.
+
+---
 
 ## 🛠️ Tecnologias e ferramentas
 
-- WordPress
-- Elementor
-- HTML/CSS
-- Editor visual do Elementor
+* WordPress
+* Elementor
+* HTML
+* CSS
 
-## 💻 Atividades realizadas
+---
 
-- Criação e organização das páginas
-- Desenvolvimento do layout
-- Personalização de elementos visuais
-- Configuração de menus e seções
-- Organização do conteúdo
-- Adaptação para diferentes tamanhos de tela
-- Ajustes de layout e apresentação
+## 👨‍💻 Atividades realizadas
 
-## 🎯 Objetivo
+Durante o desenvolvimento foram realizadas atividades como:
 
-Desenvolver um site funcional e visualmente organizado utilizando WordPress e Elementor.
+* Criação e organização das páginas;
+* Desenvolvimento do layout;
+* Personalização dos elementos;
+* Organização de textos e imagens;
+* Criação e organização de seções;
+* Configuração de menus;
+* Ajustes de espaçamento e alinhamento;
+* Adaptação para diferentes tamanhos de tela;
+* Testes de visualização e funcionamento.
 
-## 📷 Demonstração
+---
 
-[Adicionar imagens do projeto]
+## 🧩 Estrutura
+
+O site foi organizado utilizando diferentes elementos disponíveis no Elementor, incluindo:
+
+* Cabeçalho;
+* Menu de navegação;
+* Seções;
+* Colunas;
+* Textos;
+* Imagens;
+* Botões;
+* Rodapé.
+
+[Ver documentação da estrutura →](documentacao/estrutura.md)
+
+---
+
+## 📱 Responsividade
+
+Foram realizados ajustes para adaptar a apresentação do site a diferentes tamanhos de tela.
+
+Foram considerados aspectos como:
+
+* Tamanho dos textos;
+* Espaçamento;
+* Imagens;
+* Botões;
+* Organização das seções;
+* Navegação em dispositivos móveis.
+
+[Ver documentação de responsividade →](documentacao/responsividade.md)
+
+---
+
+## 🖼️ Demonstração
+
+### Página inicial
+
+![Página inicial](imagens/pagina-inicial.png)
+
+### Editor Elementor
+
+![Editor Elementor](imagens/editor-elementor.png)
+
+### Visualização em dispositivo móvel
+
+![Versão mobile](imagens/responsivo.png)
+
+---
 
 ## 🔗 Site
 
-[escoladedancapamelamatos.com.br]
+**Acesse o projeto:**
+[[Adicionar link do site](https://escoladedancapamelamatos.com.br/)
 
-## 📚 Conhecimentos desenvolvidos
+---
 
-- WordPress
-- Elementor
-- Desenvolvimento de páginas web
-- Organização de conteúdo
-- Design e estrutura de interfaces
-- Responsividade
+## 🧠 Competências demonstradas
+
+* WordPress
+* Elementor
+* Criação de páginas
+* Estruturação de conteúdo
+* Personalização visual
+* HTML/CSS
+* Responsividade
+* Organização de interfaces
+
+---
+
+## 📚 Documentação
+
+| Documento                                          | Descrição                       |
+| -------------------------------------------------- | ------------------------------- |
+| [Desenvolvimento](documentacao/desenvolvimento.md) | Processo de desenvolvimento     |
+| [Estrutura](documentacao/estrutura.md)             | Organização das páginas         |
+| [Responsividade](documentacao/responsividade.md)   | Adaptação para diferentes telas |
+
+---
+
+## 🎯 Objetivo
+
+Demonstrar conhecimentos práticos no desenvolvimento e organização de sites utilizando WordPress e Elementor.
