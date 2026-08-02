@@ -84,7 +84,7 @@ Foram considerados aspectos como:
 ## 🔗 Site
 
 **Acesse o projeto:**
-[Adicionar link do site](https://escoladedancapamelamatos.com.br/)
+[escoladedancapamelamatos.com.br](https://escoladedancapamelamatos.com.br/)
 
 ---
 
